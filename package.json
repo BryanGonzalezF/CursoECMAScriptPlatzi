@@ -1,0 +1,16 @@
+{
+  "name": "ecma_curso",
+  "version": "1.0.0",
+  "description": "Curso sobre ECMAScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "curso"
+  ],
+  "author": "Bryan Gonzalez <brygon.2015@gmail.com>",
+  "license": "MIT"
+}
